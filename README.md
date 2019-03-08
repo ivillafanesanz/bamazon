@@ -5,6 +5,7 @@ The app will take in orders from customers and deplete stock from the store's in
 See the results of using the program below:
 
 
-![using the concert-this command](https://github.com/ivillafanesanz/liri-node-app/blob/master/concert.png)
-![using the spotify command](https://github.com/ivillafanesanz/liri-node-app/blob/master/spotify.png)
-![using the movie command](https://github.com/ivillafanesanz/liri-node-app/blob/master/movie.png)
+![using it to buy product, which displays Total cost and updates the database](https://github.com/ivillafanesanz/bamazon/blob/master/Screen%20Shot%202019-03-07%20at%2010.59.58%20PM.png)
+![when there is not enough stock, it says insufficient quantity](https://github.com/ivillafanesanz/bamazon/blob/master/Screen%20Shot%202019-03-07%20at%2011.01.17%20PM.png)
+![viewing low inventory in the second part of the exercise](https://github.com/ivillafanesanz/bamazon/blob/master/Screen%20Shot%202019-03-07%20at%2011.02.11%20PM.png)
+![example of adding new items to the available list](https://github.com/ivillafanesanz/bamazon/blob/master/Screen%20Shot%202019-03-07%20at%2011.03.00%20PM.png)
